@@ -1,3 +1,0 @@
-C:/Projects/UVa/UVa/cmake-build-debug/CMakeFiles/UVa.dir
-C:/Projects/UVa/UVa/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Projects/UVa/UVa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

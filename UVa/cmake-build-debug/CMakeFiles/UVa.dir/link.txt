@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\JetBrains\CLion 2016.3.4\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\UVa.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\UVa.dir/objects.a @CMakeFiles\UVa.dir\objects1.rsp
-C:\MinGW\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\UVa.dir/objects.a -Wl,--no-whole-archive  -o UVa.exe -Wl,--out-implib,libUVa.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UVa.dir\linklibs.rsp
